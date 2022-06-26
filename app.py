@@ -4,7 +4,6 @@ import os
 import glob
 import re
 import numpy as np
-import pandas as pd
 import random
 from sklearn.preprocessing import LabelEncoder
 
